@@ -1,0 +1,17 @@
+/* Escribe tu css aqui */
+.red {
+	display: inline-block;
+	background-color: red;
+	height: 70px;
+	width: 200px;
+	margin: 10px;
+	padding: 10px;
+}
+div {
+	display: inline-block;
+	background-color: yellow;
+	height: 70px;
+	width: 200px;
+	margin: 20px;
+	padding: 10px;
+}
