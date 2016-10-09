@@ -1,10 +1,13 @@
 /* Escribe tu css aqui */
+.box {
+	height: 100px;
+}
+
 .red {
 	background-color: red;
-	height: 70px;
 }
-div {
+
+.yellow {
 	background-color: yellow;
-	height: 70px;
 }
 
